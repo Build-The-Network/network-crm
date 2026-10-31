@@ -1,0 +1,19 @@
+Subject: You're in. Welcome to The Network.
+
+{{name}},
+
+Application reviewed. You're in.
+
+Here's your Discord invite — single-use, expires in {{expiry_hours}} hours:
+
+{{discord_invite_url}}
+
+Click it. Join. Introduce yourself in the welcome channel. The Eye starts tracking your participation the moment you arrive.
+
+Read the rules. Post your first trade log today. Show up daily.
+
+Miss the standard, your seat goes to the next man on the waitlist. No second chances.
+
+See you inside.
+
+— Luccas
